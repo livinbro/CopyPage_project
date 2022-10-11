@@ -1,0 +1,36 @@
+html, body, ul, li, h1, h3{
+    margin:0;
+    padding:0;
+}
+body{
+    background-image: url("https://www.nlspacecampus.eu/cache/3/1920x1080/mob-shutterstock-481251031-20210610135721_1920x1080.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+.links{
+    background-color: #292929;
+}
+.links ul{
+    padding: 15px 14px;
+    font-size: 150%;
+}
+.links li{
+    display: inline;
+    padding-left: 15px;
+    font-weight: bold;
+}
+.links, .main, a{
+    text-align: center;
+    color:#ffffff;
+    text-decoration: none;
+}
+.main h1{
+    font-size: 500%;
+    font-weight: bold;
+}
+h1{
+    padding: 130px 0 35px 0;
+}
+.links li, .main{
+    font-family: Arial, Helvetica, sans-serif;
+}
